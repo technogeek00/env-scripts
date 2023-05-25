@@ -1,0 +1,7 @@
+[user]
+	email = me@zacharycava.com
+	name = Zachary Cava
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
